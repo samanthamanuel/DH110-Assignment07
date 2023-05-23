@@ -34,19 +34,19 @@ Overall, the participants understood the concept of the application. They found 
 
 ## Multiple Versions + Reflections
 
-**Prototype 1: [Paper Draft]()**
+**Prototype 1: [Paper Draft](https://github.com/samanthamanuel/DH110-Assignment05)**
 
 Problem: Lacking realism and limited interactivity. Overall, the lack of realism and details to the prototype makes it unclear to test participants (it requires more imagination). 
 
 Solution: Create a digitized wireflow with an outline for the tasks needed to be completed. 
 
-**Prototype 2: [Digitized Wireflow]()**
+**Prototype 2: [Digitized Wireflow](https://www.figma.com/file/4KN1fCa5r7IX7vht8ZwpEG/DH110---Assignment-07?type=design&node-id=0-1&t=jbRIDJrBamDLMM3X-0)**
 
 Problem: Better than the paper prototype but lacking in flow. Great for showing the layout of tasks, but doesn’t describe the interaction well. Some flaws in presentation as pointed out by a user. Edits were made to the hi-fidelity prototype in terms of font choice, color, and shape. 
 
 Solution: Create a hi-fidelity prototype that takes into account the preferences of the user while employing elements of flow, engagement, and navigation.
 
-**Prototype 3: [Task Wireflow/Hi-fi prototype]()**
+**Prototype 3: [Task Wireflow/Hi-fi prototype](https://www.figma.com/file/4KN1fCa5r7IX7vht8ZwpEG/DH110---Assignment-07?type=design&node-id=0-1&t=jbRIDJrBamDLMM3X-0)**
 
 Problem: Users uncovered some hiccups in the flow of the application. 
 
