@@ -16,14 +16,14 @@ This high-fidelity prototype supports the following tasks:
 
 ## Task Wireflow
 
-Please find the link to the task wireflow [here](enter link here)
+Please find the link to the task wireflow [here](https://www.figma.com/file/4KN1fCa5r7IX7vht8ZwpEG/DH110---Assignment-07?type=design&node-id=21%3A2&t=jbRIDJrBamDLMM3X-1)
 ![taskwireflow1](hifitask1.jpg)
 ![taskwireflow2and3](hifitask2and3.jpg)
 ![taskwireflowall](hifitaskall.jpg)
 
 ## Interactive Prototype
 
-Please find the link to the interactive prototype [here](enter link here)
+Please find the link to the interactive prototype [here](https://www.figma.com/file/4KN1fCa5r7IX7vht8ZwpEG/DH110---Assignment-07?type=design&node-id=21%3A2&t=jbRIDJrBamDLMM3X-1)
 ![interactivep](hifiprototypewireflow.jpg)
 
 ## Cognitive Walkthrough
