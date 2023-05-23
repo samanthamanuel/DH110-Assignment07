@@ -24,7 +24,7 @@ Please find the link to the task wireflow [here](enter link here)
 ## Interactive Prototype
 
 Please find the link to the interactive prototype [here](enter link here)
-![interactivep]()
+![interactivep](hifiprototypewireflow.jpg)
 
 ## Cognitive Walkthrough
 
