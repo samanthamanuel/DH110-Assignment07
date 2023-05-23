@@ -17,9 +17,9 @@ This high-fidelity prototype supports the following tasks:
 ## Task Wireflow
 
 Please find the link to the task wireflow [here](enter link here)
-![taskwireflow1]()
-![taskwireflow2and3]()
-![taskwireflowall]()
+![taskwireflow1](hifitask1.jpg)
+![taskwireflow2and3](hifitask2and3.jpg)
+![taskwireflowall](hifitaskall.jpg)
 
 ## Interactive Prototype
 
